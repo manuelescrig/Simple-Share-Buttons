@@ -7,12 +7,6 @@ A simple Wordpress plugin to share a page with Facebook, Twitter and Google Plus
 An example of use can be found in the following website:
 http://www.goinspired.com/commedia-dell-arte-in-florence-italy/
 
-## Installation
-
-
-## Usage
-
-
 
 ## Author
 
