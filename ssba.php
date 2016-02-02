@@ -1,14 +1,14 @@
 <?php
 /*
 Plugin Name: Simple Share Buttons
-Plugin URI: http://www.youngbit.com
+Plugin URI: http://www.ventura.media
 Description: A really simple share buttons shortcode that shows the facebook, twitter and google plus buttons.
 Version: 0.1
 Author: Manuel Escrig Ventura
-Author Email: info@youngbit.com
+Author Email: manuel@ventura.media
 License:
 
-  Copyright 2011 Manuel Escrig Ventura (info@youngbit.com)
+  Copyright 2011 Manuel Escrig Ventura (manuel@ventura.media)
 
   This program is free software; you can redistribute it and/or modify
   it under the terms of the GNU General Public License, version 2, as 
